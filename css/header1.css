@@ -1,0 +1,28 @@
+header
+{
+  background-color: #546e7a;
+  height:100px;
+}
+.title {
+    background-color: none;
+    color: white;
+    padding: 15px;
+    height:70px
+    min-width:400px;
+    font-size: 20px;
+    text-align: center;
+    margin-left:380px; 
+    position: absolute;  
+  }
+  .tr{
+    background-color:none;
+    color: white;
+    padding: 15px;
+    height:70px
+    min-width:400px;
+    font-size: 20px;
+    text-align: right;
+    margin-left:1400px;
+    position: absolute;  
+  }
+  

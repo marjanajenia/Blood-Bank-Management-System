@@ -1,0 +1,41 @@
+body{
+  margin: 0 auto;
+  background-image:none;
+  background-repeat: no-repeat;
+  background-size: 100% 720px;
+}
+*{
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+
+.container{
+	text-align: center;
+	width: 600px;
+	height: 900px;
+	margin: 0 auto;
+	margin-top: 30px;
+	border: 2px;
+	padding: 50px;
+	background: #90A4AE;
+	
+}.form-control{
+	margin-bottom: 20px;
+	position: relative;
+
+}
+.form-control label{
+	display:inline-block;
+	margin-bottom: 5px;
+
+}
+.form-control input{
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px auto;
+  border: 2px;
+  border-radius: 5px;
+
+}
